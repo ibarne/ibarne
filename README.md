@@ -24,7 +24,6 @@ Having an 5+ years of experience in Planning and Optimization of Mobile Network,
 <br />
 
 ## Languages and Tools:
-
 <p align='center'>
   <a href=""><img height="26" src="https://www.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
   <a href=""><img height="26" src="https://lh3.googleusercontent.com/proxy/mkD-WfBgNuI82jMeysxJRbsDN_h4UfX-E5Oz8yBb0DoSknfFI92s055Vfmk2I5V0bM360M-hC4-o4GzIPwfE6DoGAZ64zMmJuJxqiaDr6aYaQkFzevLRB4nqWRqX8m9Z_bswg3b2lTyvJ3OYssNZpNs">
