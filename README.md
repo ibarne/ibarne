@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-![](./sm.png)
+![SM Website](smwebsite.gif)
 
 - 🔭 I’m currently working on Machine Learning
 - 🌱 I’m currently learning Deep Learning
