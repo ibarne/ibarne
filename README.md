@@ -36,4 +36,4 @@
   <a href="https://www.facebook.com/sourav.maji"><img height="30" src="https://www.iconfinder.com/data/icons/logotypes/32/square-facebook-512.png"> 
 </p>
     
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13vjFNGToWj1ZgEIN2r2swHnvfwnKO62i?usp=sharing]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13vjFNGToWj1ZgEIN2r2swHnvfwnKO62i?usp=sharing)
