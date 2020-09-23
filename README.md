@@ -30,7 +30,7 @@
 ## **Connect with me:**
 
 <p align='center'>
-  <a href="sourav-maji.blogspot.com"><img height="30" src="https://www.iconfinder.com/data/icons/social-networks-and-media-flat-icons/136/Social_Media_Socialmedia_network_share_socialnetwork_network-22-512.png">
+  <a href="https://sourav-maji.blogspot.com/"><img height="30" src="https://www.iconfinder.com/data/icons/social-networks-and-media-flat-icons/136/Social_Media_Socialmedia_network_share_socialnetwork_network-22-512.png">
   <a href="https://www.linkedin.com/in/sourav-maji/"><img height="30" src="https://image.flaticon.com/icons/png/512/174/174857.png">
   <a href="https://www.instagram.com/barn_e_/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png">
   <a href="https://www.facebook.com/sourav.maji"><img height="30" src="https://www.iconfinder.com/data/icons/logotypes/32/square-facebook-512.png"> 
