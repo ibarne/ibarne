@@ -1,9 +1,6 @@
-## Hi there 👋
-Working closely with Machine Learning Algorithm with help of Python and R. I am building: - A culture with an emphasis on exploration,intelligence and capabilities instead of tools. - A mindset that focuses on solving real life problems with scalable ,fit-for-purpose application of AI and advanced analytics capabilities.
+## Hello World 👋
 
-Having an 5+ years of experience in Planning and Optimization of Mobile Network, experience of handling 25+ team members while acting as a Radio Frequency Lead for ZTE.
-
-![](sm.png)
+![](./sm.png)
 
 - 🔭 I’m currently working on Machine Learning
 - 🌱 I’m currently learning Deep Learning
