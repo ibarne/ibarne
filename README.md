@@ -25,6 +25,7 @@ Having an 5+ years of experience in Planning and Optimization of Mobile Network,
   <a href=""><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png">
   <a href=""><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Microsoft_Excel_2013_logo.svg/1043px-Microsoft_Excel_2013_logo.svg.png">
   <a href=""><img height="26" src="https://colab.research.google.com/img/colab_favicon_256px.png">
+</p>  
     
 <br />
 
@@ -35,6 +36,4 @@ Having an 5+ years of experience in Planning and Optimization of Mobile Network,
   <a href="https://www.linkedin.com/in/sourav-maji/"><img height="26" src="https://image.flaticon.com/icons/png/512/174/174857.png">
   <a href="https://www.instagram.com/barn_e_/"><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png">
   <a href="https://www.facebook.com/sourav.maji"><img height="26" src="https://w0.pngwave.com/png/739/443/social-media-facebook-logo-computer-icons-facebook-icon-png-clip-art.png">
-
-<br />
-
+</p>
