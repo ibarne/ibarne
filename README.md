@@ -16,7 +16,6 @@
 
 <p align='center'>
   <a href=""><img height="30" src="https://www.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
- 
   <a href=""><img height="30" src="https://d33wubrfki0l68.cloudfront.net/57299a1dcd979c623325f11bf5e5ce60f3d4eb00/e4602/wp-content/uploads/2018/10/black.png">
   <a href=""><img height="30" src="https://banner2.cleanpng.com/20180620/sou/kisspng-microsoft-sql-server-microsoft-azure-sql-database-5b2a129e075e46.9374719115294839340302.jpg">
   <a href=""><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png">
